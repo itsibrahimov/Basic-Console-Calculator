@@ -1,0 +1,14 @@
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\bin\Debug\net6.0\Basic Console Calculator.exe
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\bin\Debug\net6.0\Basic Console Calculator.deps.json
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\bin\Debug\net6.0\Basic Console Calculator.runtimeconfig.json
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\bin\Debug\net6.0\Basic Console Calculator.dll
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\bin\Debug\net6.0\Basic Console Calculator.pdb
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\obj\Debug\net6.0\Basic Console Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\obj\Debug\net6.0\Basic Console Calculator.AssemblyInfoInputs.cache
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\obj\Debug\net6.0\Basic Console Calculator.AssemblyInfo.cs
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\obj\Debug\net6.0\Basic Console Calculator.csproj.CoreCompileInputs.cache
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\obj\Debug\net6.0\Basic Console Calculator.dll
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\obj\Debug\net6.0\refint\Basic Console Calculator.dll
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\obj\Debug\net6.0\Basic Console Calculator.pdb
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\obj\Debug\net6.0\Basic Console Calculator.genruntimeconfig.cache
+C:\Users\itsib\source\repos\Basic Console Calculator\Basic Console Calculator\obj\Debug\net6.0\ref\Basic Console Calculator.dll
